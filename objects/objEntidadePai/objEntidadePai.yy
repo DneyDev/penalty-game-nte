@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"objPlayer1",
-  "eventList":[],
+  "%Name":"objEntidadePai",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"objPlayer1",
+  "name":"objEntidadePai",
   "overriddenProperties":[],
   "parent":{
-    "name":"objPlayers",
-    "path":"folders/objPlayers.yy",
+    "name":"penalty-game-nte",
+    "path":"penalty-game-nte.yyp",
   },
-  "parentObjectId":{
-    "name":"objEntidadePai",
-    "path":"objects/objEntidadePai/objEntidadePai.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"p1StandSprite",
-    "path":"sprites/p1StandSprite/p1StandSprite.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
