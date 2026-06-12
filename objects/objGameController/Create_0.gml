@@ -21,4 +21,5 @@ perguntas = [ //dicionário com perguntas e respostas
 ];
 
 pergunta_atual = 0;
+resultado = "";
 

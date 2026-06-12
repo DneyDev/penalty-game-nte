@@ -4,10 +4,10 @@ function verificar_resposta(indice)
 
     if (p.respostas[indice].correta)
     {
-        show_debug_message("GOOOOL!");
+        resultado = "GOOOOL!";
     }
     else
     {
-        show_debug_message("DEFENDEU!");
+        resultado = "DEFENDEU!";
     }
 }

@@ -2,6 +2,8 @@ var p = perguntas[pergunta_atual];
 
 // Desenha a pergunta
 draw_text(50, 50, p.pergunta);
+//desenha o resultado
+draw_text(50, 250, resultado);
 
 // Desenha as alternativas
 for (var i = 0; i < array_length(p.respostas); i++)
