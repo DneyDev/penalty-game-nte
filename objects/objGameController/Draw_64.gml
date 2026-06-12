@@ -1,9 +1,11 @@
 var p = perguntas[pergunta_atual];
 
 // Desenha a pergunta
-draw_text(50, 50, p.pergunta);
+draw_text(50, 50, p.pergunta); //os valores de coordenadas x,y estão assim temporariamente
 //desenha o resultado
 draw_text(50, 250, resultado);
+//placar
+draw_text(50, 300, "Gols: " + string(gols));
 
 // Desenha as alternativas
 for (var i = 0; i < array_length(p.respostas); i++)

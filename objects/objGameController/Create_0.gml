@@ -21,5 +21,10 @@ perguntas = [ //dicionário com perguntas e respostas
 ];
 
 pergunta_atual = 0;
+respondeu = false;
+gols = 0;
 resultado = "";
+
+
+
 
