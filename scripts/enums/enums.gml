@@ -1,0 +1,6 @@
+
+enum estadoJogo
+	{
+	 PERGUNTA,
+	 RESULTADO
+	}
