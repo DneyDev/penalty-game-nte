@@ -36,5 +36,3 @@ pergunta_atual = 0;
 respondeu = false;
 gols = 0;
 resultado = "";
-//frame_video = 0;
-//mostrar_video = false;
