@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"para_o_gol",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":26.04408,
+  "exportDir":"",
+  "name":"para_o_gol",
+  "parent":{
+    "name":"sons",
+    "path":"folders/sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"para_o_gol.mp3",
+  "volume":1.0,
+}

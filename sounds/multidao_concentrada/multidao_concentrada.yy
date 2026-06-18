@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"multidao_concentrada",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":85.248,
+  "exportDir":"",
+  "name":"multidao_concentrada",
+  "parent":{
+    "name":"sons",
+    "path":"folders/sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"multidao_concentrada.mp3",
+  "volume":1.0,
+}
