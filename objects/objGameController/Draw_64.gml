@@ -28,11 +28,11 @@ draw_text(50, 300, "Gols: " + string(gols));
 // === ANIMAÇÃO GOOOL (só se acertou) ===
 // 1. Checa o momento do gol para ATIVAR o vídeo
 if (respondeu && resultado == "GOOOOL!")
-{
-    if (!mostrar_video && frame_video == 0) {
-        mostrar_video = true; // Liga o vídeo se ele ainda não começou
-    }
-}
+//{
+   // if (!mostrar_video && frame_video == 0) {
+      //  mostrar_video = true; // Liga o vídeo se ele ainda não começou
+   // }
+//}
 
 // 2. Lógica do texto (continua aparecendo enquanto a condição do gol for real)
 if (respondeu && resultado == "GOOOOL!")
@@ -43,15 +43,15 @@ if (respondeu && resultado == "GOOOOL!")
 }
 
 
-if (mostrar_video)
-{
+//if (mostrar_video)
+//{
   
-    draw_sprite_ext(spr_videogoooool, frame_video, 39, 100, 0.5, 0.5, 0, c_white, 1); 
+    //draw_sprite_ext(spr_videogoooool, frame_video, 39, 100, 0.5, 0.5, 0, c_white, 1); 
     
-    frame_video += 0.5; 
+   // frame_video += 0.5; 
     
    
-    if (frame_video >= sprite_get_number(spr_videogoooool)) {
-        mostrar_video = false;  // FAZ DESAPARECER!
-    }
-}
+   // if (frame_video >= sprite_get_number(spr_videogoooool)) {
+       // mostrar_video = false;  // FAZ DESAPARECER!
+    //}
+//}
