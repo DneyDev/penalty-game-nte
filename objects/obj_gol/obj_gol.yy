@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"bolaEgol",
-    "path":"folders/bolaEgol.yy",
+    "path":"folders/Objects/bolaEgol.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,4 +1,4 @@
-var p = perguntas[pergunta_atual];
+/*var p = perguntas[pergunta_atual];
 // draw das perguntas
 draw_set_font(calculos);
 draw_set_color(c_black);

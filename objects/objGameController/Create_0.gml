@@ -1,8 +1,8 @@
-jogador_atual = objPlayer1;
+global.jogador_atual = objPlayer1;
 
-estado = estadoJogo.PERGUNTA;
+global.estado = estadoJogo.PERGUNTA;
 
-perguntas = [ //dicionário com perguntas e respostas
+global.perguntas = [ //dicionário com perguntas e respostas
     {
         pergunta: "Quanto é 2 + 2?",
         respostas: [
@@ -32,7 +32,8 @@ perguntas = [ //dicionário com perguntas e respostas
 	}
 ];
 
-pergunta_atual = 0;
+index_pergunta = 0
+global.pergunta_atual = global.perguntas[index_pergunta].pergunta;
 respondeu = false;
 gols = 0;
 resultado = "";

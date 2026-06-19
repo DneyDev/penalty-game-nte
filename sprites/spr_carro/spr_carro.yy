@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"panelsprites",
-    "path":"folders/panelsprites.yy",
+    "path":"folders/Sprites/panelsprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

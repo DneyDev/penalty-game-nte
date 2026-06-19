@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"objPlayers",
-    "path":"folders/objPlayers.yy",
+    "path":"folders/Objects/objPlayers.yy",
   },
   "parentObjectId":null,
   "persistent":false,

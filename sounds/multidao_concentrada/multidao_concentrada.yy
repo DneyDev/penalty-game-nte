@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"multidao_concentrada",
   "parent":{
-    "name":"sons",
-    "path":"folders/sons.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

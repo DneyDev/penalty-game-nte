@@ -9,8 +9,8 @@
   "name":"objGoleiro",
   "overriddenProperties":[],
   "parent":{
-    "name":"penalty-game-nte",
-    "path":"penalty-game-nte.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprGoleiroIdle",
+    "path":"sprites/sprGoleiroIdle/sprGoleiroIdle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

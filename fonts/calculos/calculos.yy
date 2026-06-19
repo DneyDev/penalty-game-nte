@@ -380,8 +380,8 @@
   "maintainGms1Font":false,
   "name":"calculos",
   "parent":{
-    "name":"fonte",
-    "path":"folders/fonte.yy",
+    "name":"Fonts",
+    "path":"folders/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[
