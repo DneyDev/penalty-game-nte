@@ -1,6 +1,11 @@
 # ⚽ Penalty Quiz
 
 > Jogo educacional de futebol com matemática desenvolvido no GameMaker Studio 2 pelo **Núcleo de Tecnologia Educacional (NTE)** da **Secretaria de Educação e Esportes de Paulista (SEEPA)**.
+>
+> Desenvolvido por:
+> -> Sidney Rodrigues -Backend-
+> -> Lucas -Frontend/Design-
+> -> João Roberto -FullStack-
 
 ---
 
