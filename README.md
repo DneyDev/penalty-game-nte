@@ -1,6 +1,6 @@
 # ⚽ Penalty Quiz
 
-> Jogo educacional de futebol com matemática desenvolvido no GameMaker Studio 2 pelo Núcleo de Tecnologia Educacional (NTE) da Secretaria de Educação e Esportes de Paulista (SEEPA).
+> Jogo educacional de futebol com matemática desenvolvido no GameMaker Studio 2 pelo **Núcleo de Tecnologia Educacional (NTE)** da **Secretaria de Educação e Esportes de Paulista (SEEPA)**.
 
 ---
 
