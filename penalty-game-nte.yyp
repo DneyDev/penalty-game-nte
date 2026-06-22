@@ -34,12 +34,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.0.0.16",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"penalty-game-nte",
   "resources":[
     {"id":{"name":"calculos","path":"fonts/calculos/calculos.yy",},},
     {"id":{"name":"goool","path":"fonts/goool/goool.yy",},},
+    {"id":{"name":"oAlternativa","path":"objects/oAlternativa/oAlternativa.yy",},},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},},
     {"id":{"name":"obj_papel","path":"objects/obj_papel/obj_papel.yy",},},
     {"id":{"name":"objBola","path":"objects/objBola/objBola.yy",},},

@@ -34,6 +34,7 @@ global.perguntas = [ //dicionário com perguntas e respostas
 
 index_pergunta = 0
 global.pergunta_atual = global.perguntas[index_pergunta].pergunta;
+global.alternativas_atual = global.perguntas[index_pergunta].respostas;
 respondeu = false;
 gols = 0;
 resultado = "";

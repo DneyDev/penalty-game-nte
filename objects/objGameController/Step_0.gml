@@ -31,3 +31,8 @@ if (respondeu && keyboard_check_pressed(vk_enter))
     resultado = "";
     respondeu = false;
 }
+
+for (var i = 0; i < 4; i++) { 
+	var alternativa = instance_create_layer(0+32*i, 0, "Instances", oAlternativa);
+	alternativa.text = global.alternativas_atual[i].texto;
+}
