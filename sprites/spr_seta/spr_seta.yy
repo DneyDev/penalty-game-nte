@@ -29,8 +29,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"penalty-game-nte",
-    "path":"penalty-game-nte.yyp",
+    "name":"seta",
+    "path":"folders/sprite/seta.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

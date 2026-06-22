@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"penalty-game-nte",
-    "path":"penalty-game-nte.yyp",
+    "name":"paper",
+    "path":"folders/sprite/paper.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

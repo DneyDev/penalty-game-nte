@@ -25,5 +25,4 @@ if (respondeu && resultado == "GOOOOL!")
 {
     draw_set_font(goool);
     draw_set_color(c_black);
-    //draw_text_scribble(50, 400, "GOOOOL!");
 }

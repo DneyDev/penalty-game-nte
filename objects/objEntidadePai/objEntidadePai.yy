@@ -9,8 +9,8 @@
   "name":"objEntidadePai",
   "overriddenProperties":[],
   "parent":{
-    "name":"penalty-game-nte",
-    "path":"penalty-game-nte.yyp",
+    "name":"sistema",
+    "path":"folders/sistema.yy",
   },
   "parentObjectId":null,
   "persistent":false,
