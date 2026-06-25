@@ -23,6 +23,7 @@ if (global.estado == estadoJogo.CHUTE) {
 		if (global.acertou) {
 			if (!instance_exists(objSplash)) instance_create_layer(x, y, "Instances", objSplash);
 			var gol_audio = audio_play_sound(para_o_gol, 5, 1, .5, 0.9);
+			global.placar[global.vez]++;
 			audio_sound_gain(gol_audio, 0, 3000);
 		}
 		objGameController.alarm[0] = game_get_speed(gamespeed_fps);

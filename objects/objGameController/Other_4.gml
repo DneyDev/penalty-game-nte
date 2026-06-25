@@ -9,3 +9,8 @@ for (var i = 0; i < 4; i++) {
 		alternativa.certo = global.alternativas_atual[i].correta;	
 	}
 }
+
+
+if (quantidade_perguntas <= 0) {
+	if (room != rmGameOver) room_goto(rmGameOver);
+} 

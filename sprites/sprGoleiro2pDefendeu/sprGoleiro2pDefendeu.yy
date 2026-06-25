@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"sprGoleiroDefendeu",
+  "%Name":"sprGoleiro2pDefendeu",
   "bboxMode":0,
   "bbox_bottom":74,
   "bbox_left":136,
@@ -20,9 +20,9 @@
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"6410b25f-7f4e-439f-b9e3-2551d5ffb6f5","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"6410b25f-7f4e-439f-b9e3-2551d5ffb6f5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"790c031d-399e-49d7-a270-583905ac4094","blendMode":0,"displayName":"default","isLocked":false,"name":"790c031d-399e-49d7-a270-583905ac4094","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"cbb40cc0-2450-415d-90ac-6f19621fb84e","blendMode":0,"displayName":"Layer 2","isLocked":false,"name":"cbb40cc0-2450-415d-90ac-6f19621fb84e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sprGoleiroDefendeu",
+  "name":"sprGoleiro2pDefendeu",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sprGoleiroDefendeu",
+    "%Name":"sprGoleiro2pDefendeu",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sprGoleiroDefendeu",
+    "name":"sprGoleiro2pDefendeu",
     "playback":1,
     "playbackSpeed":10.0,
     "playbackSpeedType":0,
@@ -70,7 +70,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"369afa66-72e4-4236-a472-a6637aca3a8f","path":"sprites/sprGoleiroDefendeu/sprGoleiroDefendeu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"369afa66-72e4-4236-a472-a6637aca3a8f","path":"sprites/sprGoleiro2pDefendeu/sprGoleiro2pDefendeu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"036eee29-910c-4ccb-892e-dded8926c9df","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

@@ -1,3 +1,4 @@
+randomise();
 global.jogador_atual = objPlayer1;
 
 global.estado = estadoJogo.PERGUNTA;
@@ -186,11 +187,15 @@ global.perguntas = [ //dicionário com perguntas e respostas
 ];
 
 audio_play_sound(multidao_concentrada, 1, 1, .3);
-index_pergunta = 0
+quantidade_perguntas = array_length(global.perguntas);
+index_pergunta = irandom(quantidade_perguntas - 1);
 global.pergunta_atual = global.perguntas[index_pergunta].pergunta;
 global.alternativas_atual = global.perguntas[index_pergunta].respostas;
 global.acertou = false;
 global.gk_xscale = 1;
+global.fim_de_jogo = false;
+global.placar = [0, 0];
+global.vez = 0;
 respondeu = false;
 gols = 0;
 resultado = "";
