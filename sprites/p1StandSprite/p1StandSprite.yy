@@ -28,7 +28,7 @@
   "origin":4,
   "parent":{
     "name":"p1Sprites",
-    "path":"folders/playersSprites/p1Sprites.yy",
+    "path":"folders/Sprites/playersSprites/p1Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

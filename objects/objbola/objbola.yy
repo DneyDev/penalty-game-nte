@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"objbola",
+  "%Name":"objBola",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objbola",
+  "name":"objBola",
   "overriddenProperties":[],
   "parent":{
     "name":"bolaEgol",
-    "path":"folders/bolaEgol.yy",
+    "path":"folders/Objects/bolaEgol.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bola",
-    "path":"sprites/spr_bola/spr_bola.yy",
+    "name":"sprBola",
+    "path":"sprites/sprBola/sprBola.yy",
   },
   "spriteMaskId":null,
   "visible":true,

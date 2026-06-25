@@ -14,13 +14,13 @@
   "exportDir":"",
   "name":"cantando",
   "parent":{
-    "name":"sons",
-    "path":"folders/sons.yy",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"cantando.mp3",
-  "volume":1.0,
+  "volume":0.35,
 }
