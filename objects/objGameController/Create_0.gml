@@ -77,9 +77,12 @@ global.perguntas = [ //dicionário com perguntas e respostas
 	}
 ];
 
+audio_play_sound(multidao_concentrada, 1, 1, .3);
 index_pergunta = 0
 global.pergunta_atual = global.perguntas[index_pergunta].pergunta;
 global.alternativas_atual = global.perguntas[index_pergunta].respostas;
+global.acertou = false;
+global.gk_xscale = 1;
 respondeu = false;
 gols = 0;
 resultado = "";

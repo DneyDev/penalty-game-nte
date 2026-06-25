@@ -6,11 +6,11 @@
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "channelFormat":0,
+  "channelFormat":1,
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":85.248,
+  "duration":62.692833,
   "exportDir":"",
   "name":"multidao_concentrada",
   "parent":{
